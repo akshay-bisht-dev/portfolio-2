@@ -8,7 +8,7 @@
 html {
     scroll-behavior: smooth;
     overflow-x: hidden;
-    overflow-y: hidden;
+    /* overflow-y: hidden; */
 }
 
 body {
